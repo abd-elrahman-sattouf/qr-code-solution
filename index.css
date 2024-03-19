@@ -1,0 +1,36 @@
+body{
+    background-color:  hsl(212, 45%, 89%);
+    width: 1440px;
+    height: auto;
+  
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.qr{
+    width: fit-content;
+    height: auto;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+   
+}
+img{
+    border-radius: 20px;
+    width:250px;
+    height: auto;
+    padding: 10px 10px 0px 10px;
+}
+.p{
+    text-align: center;
+    font-size: 15px;
+    width: 250px;
+    height: auto;
+}
+
